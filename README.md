@@ -50,9 +50,3 @@ Note: The application is intended to run from Visual Studio. Some data collectio
 * Document plugin API and extension points
 * Improve data accuracy and UI performance
 * Add tests and gather user feedback
-
-## Contribution & Code Style
-
-* Submit pull requests via GitHub: use feature branches and clear commit messages
-* Preferred style: modern C++ (C++17/20), follow C++/WinRT idioms
-* Unit tests for core logic and manual UI validation are encouraged
