@@ -18,7 +18,7 @@ AIDA64 is an early prototype system monitoring application implemented with **C+
 * WMI‑based data provider for system information
 * Optional integrated AI assistant for diagnostics (experimental)
 
-## SecreenShots
+## ScreensShots
 
 <p align="center">
   <img width="2126" height="1291" alt="Снимок экрана 2025-08-09 225942" src="https://github.com/user-attachments/assets/355d8c0c-8f5b-4eb8-97a9-93951969cfb2" width="45%"/>
