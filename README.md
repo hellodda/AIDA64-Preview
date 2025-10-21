@@ -49,4 +49,3 @@ Note: The application is intended to run from Visual Studio. Some data collectio
 * Complete core monitoring modules (CPU/GPU/Memory)
 * Document plugin API and extension points
 * Improve data accuracy and UI performance
-* Add tests and gather user feedback
